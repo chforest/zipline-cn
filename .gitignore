@@ -10,6 +10,11 @@ tmp/*
 .DS_Store
 *.py[co]
 
+src
+ta-lib
+ta-lib-*-src.tar.gz
+
+
 # Installer logs
 pip-log.txt
 

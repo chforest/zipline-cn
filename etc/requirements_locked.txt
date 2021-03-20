@@ -41,7 +41,7 @@ intervaltree==2.1.0
 iso3166==0.9
 iso4217==1.6.20180829
 itsdangerous==0.24        # via flask
-jinja2==2.10.1            # via flask, sphinx
+jinja2==2.11.3            # via flask, sphinx
 livereload==2.6.0         # via sphinx-autobuild
 locket==0.2.0             # via partd
 logbook==0.12.5

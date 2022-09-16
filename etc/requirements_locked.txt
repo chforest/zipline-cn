@@ -46,7 +46,7 @@ livereload==2.6.0         # via sphinx-autobuild
 locket==0.2.0             # via partd
 logbook==0.12.5
 lru-dict==1.1.4
-mako==1.0.1               # via alembic
+mako==1.2.2               # via alembic
 markupsafe==0.23          # via jinja2, mako
 matplotlib==1.5.3
 mccabe==0.6.0             # via flake8
